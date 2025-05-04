@@ -36,9 +36,9 @@ cargo run --release
 	This will compile and run the neural network training loop. You’ll see the training loss and final predictions.
 
 ---
-## 🧪 Example Logic Gate: Toffoli
+## 🧪 Example Logic Gate: **CNOT**
 
-Toffoli gate truth table:
+**CNOT** gate truth table:
 
 |Input|Output|
 |---|---|
