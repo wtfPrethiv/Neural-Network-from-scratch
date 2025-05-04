@@ -1,0 +1,9 @@
+[package]
+name = "Neural-network-from-scratch"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+ndarray = "0.16.1"
+ndarray-rand = "0.15"
+rand = "0.8"
